@@ -5,7 +5,7 @@
 luvyadav20/luvyadav20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hi 👋! My name is Lav  and I'm from UP.</h2>
+<h2 align="left">Hi 👋! My name is Lav  </h2>
 
 - 🌱I have Post Graduate Diploma In Advance Computing from CDAC-PUNE.
 - 📫 JUST DO IT!
